@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jalal%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20%26%20Next.js%20Developer%20%7C%20AI%20x%20Web%20Enthusiast&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jalal%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20%26%20Next.js%20Developer%20%21%20AI%20x%20Web%20Enthusiast&descAlignY=55&v=2" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mjdevstudio/">
