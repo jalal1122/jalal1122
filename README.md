@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mjdevstudio/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jalal%20Khan-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jalal%20Khan-blue?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:jk4350649@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&amp;logo=gmail" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-brightgreen?style=for-the-badge" alt="MERN Stack Developer" />
 </p>
 
 ---
