@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jalal%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20%26%20Next.js%20Developer%20%21%20AI%20x%20Web%20Enthusiast&descAlignY=55&v=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Jalal%20Khan&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=MERN%20%26%20Next.js%20Developer%20%21%20AI%20x%20Web%20Enthusiast&amp;descAlignY=55&amp;v=2" alt="Jalal Khan - MERN &amp; Next.js Developer | AI x Web Enthusiast" />
 </p>
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mjdevstudio/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jalal%20Khan-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jalal%20Khan-blue?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn profile for Jalal Khan" />
   </a>
   <a href="mailto:jk4350649@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&amp;logo=gmail" alt="Email contact: jk4350649@gmail.com" />
   </a>
-  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-brightgreen?style=for-the-badge" alt="MERN Stack Developer" />
 </p>
 
 ---
