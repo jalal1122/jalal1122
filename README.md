@@ -1,52 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Jalal%20Khan&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=MERN%20%26%20Next.js%20Developer%20%21%20AI%20x%20Web%20Enthusiast&amp;descAlignY=55&amp;v=2" alt="Jalal Khan - MERN &amp; Next.js Developer | AI x Web Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jalal%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20MERN%20Stack%20Developer%20|%20Next.js%2016%20x%20React%20Native&descAlignY=55&v=2" alt="Jalal Khan - Junior MERN Developer" />
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mjdevstudio/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jalal%20Khan-blue?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn profile for Jalal Khan" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jalal%20Khan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:jk4350649@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&amp;logo=gmail" alt="Email contact: jk4350649@gmail.com" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-brightgreen?style=for-the-badge" alt="MERN Stack Developer" />
+  <img src="https://img.shields.io/badge/Junior%20MERN-Developer-brightgreen?style=for-the-badge" alt="Junior MERN Developer" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Jalal Khan**, a **MERN Stack Developer** and **Tech4Edges Intern**, currently pursuing a **BS in Information Technology** at **Agriculture University Peshawar**.
+I'm **Jalal Khan**, a **Junior MERN Stack Developer** at **Tech4Edges**, where I build scalable, production-grade web and mobile solutions. Currently completing my **BS in Information Technology** at **Agriculture University Peshawar**, I thrive at the intersection of performance optimization and AI integration.
 
-I specialize in building **scalable full-stack applications**, performance-optimized React interfaces, and backend systems that handle **high data volumes**. I’m also the **Founder & Team Lead of DevMates**, where I mentor students in **React and Tailwind CSS**.
+Beyond my professional role, I am the **Founder & Team Lead of DevMates**, a community where I mentor the next generation of developers in the MERN ecosystem.
 
-🎧 Fun fact: I code best with **gaming soundtracks** playing in the background.
+🎧 **Fun fact:** I code best with **gaming soundtracks** (specifically Witcher 3 or RDR2) playing in the background.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 AttendX — Smart QR-Based Attendance System (FYP)
-**Tech:** MERN Stack, QR Authentication  
-A production-ready **QR-based attendance management system** designed for academic and organizational use.
+**Tech:** MERN Stack, Socket.io, QR Authentication  
+A smart attendance management system designed for real-time tracking in academic environments. 
 
-### 🔹 E-commerce Sync Engine
-**Tech:** Node.js, Redis, BullMQ, Chrome Extension  
-A **high-performance sync system** handling **30,000+ product listings** using background queues and Redis caching.
+### 🔹 Kite — Full-Stack Industrial Web Platform (Mohsin Match Industries)
+**Tech:** React, Node js , Express js, Mongo DB  
+A robust full-stack platform featuring a centralized admin panel to manage product promotion packages and high-concurrency background sync for 30,000+ data entries.
+
+### 🔹 Intraverse Blog
+**Tech:** Next.js 16, MongoDB, Tailwind CSS  
+A modern, performance-first blogging platform leveraging the latest features of **Next.js 16** for superior SEO and speed.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript)
+### 🎨 Frontend & Mobile
+![Next.js 16](https://img.shields.io/badge/Next.js%2016-black?style=flat&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript)
 
-### ⚙️ Backend
-![Node](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express.js-black?style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+### ⚙️ Backend & AI
+![Node](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express.js-black?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![AI Tools](https://img.shields.io/badge/AI%20Integration-🤖-blue?style=flat)
 
-### 🗄️ Databases & Queues
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis)
+### 🗄️ Databases & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 ---
 
@@ -66,4 +69,4 @@ A **high-performance sync system** handling **30,000+ product listings** using b
 * 📸 **Instagram:** [@jalalkhan2084](https://instagram.com/jalalkhan2084/)
 * 📧 **Email:** jk4350649@gmail.com
 
-> **“Bridging AI with Web. Building systems that scale. Learning relentlessly.”** 🚀
+> **“Bridging AI with Web & Mobile. Building systems that scale. Learning relentlessly.”** 🚀
