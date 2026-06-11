@@ -26,7 +26,7 @@ Beyond my professional role, I am the **Founder & Team Lead of DevMates**, a com
 
 ## 🚀 Featured Projects
 
-### 🔹 AttendX — Smart QR-Based Attendance System (FYP)
+### 🔹 CSIT AMS — Smart QR-Based Attendance System (FYP)
 **Tech:** MERN Stack, Socket.io, QR Authentication  
 A smart attendance management system designed for real-time tracking in academic environments. 
 
